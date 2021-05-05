@@ -17,6 +17,7 @@ spec:
     spec:
       containers:
       - name: hotel
-        image: vipindevops/blue-green:tagname:1.0
+        image: vipindevops/blue-green:1.0
+        #image: protosaditya/sample-web-app:V1
         ports:
         - containerPort: 80

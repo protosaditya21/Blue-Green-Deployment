@@ -5,7 +5,7 @@ metadata:
   namespace: hotel
 spec:
   rules:
-  - host: hotelstage.example.com 
+  - host: hotelstage.goodtogo.tk
     http:
       paths:
       - path: /

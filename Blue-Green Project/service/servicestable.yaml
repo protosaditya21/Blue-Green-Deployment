@@ -11,5 +11,6 @@ spec:
     name: http
   selector:
     app: hotel
+    #version: blue
     version: blue
   type: LoadBalancer
